@@ -1,0 +1,229 @@
+"","demographics_icb","annual_review","count_review"
+"1","Bath and North East Somerset, Swindon and Wiltshire","No",15
+"2","Bath and North East Somerset, Swindon and Wiltshire","Not sure",3
+"3","Bath and North East Somerset, Swindon and Wiltshire","Yes – face to face",86
+"4","Bath and North East Somerset, Swindon and Wiltshire","Yes – over the phone",22
+"5","Bath and North East Somerset, Swindon and Wiltshire","Yes – via a videocall",2
+"6","Bath and North East Somerset, Swindon and Wiltshire","Yes – via online survey or text",9
+"7","Bedfordshire, Luton and Milton Keynes","No",24
+"8","Bedfordshire, Luton and Milton Keynes","Not sure",1
+"9","Bedfordshire, Luton and Milton Keynes","Yes – face to face",72
+"10","Bedfordshire, Luton and Milton Keynes","Yes – over the phone",18
+"11","Bedfordshire, Luton and Milton Keynes","Yes – via online survey or text",4
+"12","Birmingham and Solihull","No",20
+"13","Birmingham and Solihull","Not sure",2
+"14","Birmingham and Solihull","Yes – face to face",85
+"15","Birmingham and Solihull","Yes – over the phone",8
+"16","Birmingham and Solihull","Yes – via online survey or text",2
+"17","Black Country","No",14
+"18","Black Country","Not sure",2
+"19","Black Country","Yes – face to face",94
+"20","Black Country","Yes – over the phone",10
+"21","Black Country","Yes – via a videocall",1
+"22","Black Country","Yes – via online survey or text",2
+"23","Bristol, North Somerset and South Gloucestershire","No",23
+"24","Bristol, North Somerset and South Gloucestershire","Not sure",4
+"25","Bristol, North Somerset and South Gloucestershire","Yes – face to face",81
+"26","Bristol, North Somerset and South Gloucestershire","Yes – over the phone",27
+"27","Bristol, North Somerset and South Gloucestershire","Yes – via online survey or text",7
+"28","Buckinghamshire, Oxfordshire and Berkshire West","No",25
+"29","Buckinghamshire, Oxfordshire and Berkshire West","Not sure",3
+"30","Buckinghamshire, Oxfordshire and Berkshire West","Yes – face to face",127
+"31","Buckinghamshire, Oxfordshire and Berkshire West","Yes – over the phone",35
+"32","Buckinghamshire, Oxfordshire and Berkshire West","Yes – via online survey or text",12
+"33","Cambridgeshire and Peterborough","No",18
+"34","Cambridgeshire and Peterborough","Not sure",6
+"35","Cambridgeshire and Peterborough","Yes – face to face",92
+"36","Cambridgeshire and Peterborough","Yes – over the phone",16
+"37","Cambridgeshire and Peterborough","Yes – via a videocall",1
+"38","Cambridgeshire and Peterborough","Yes – via online survey or text",5
+"39","Cheshire and Merseyside","No",53
+"40","Cheshire and Merseyside","Not sure",7
+"41","Cheshire and Merseyside","Yes – face to face",233
+"42","Cheshire and Merseyside","Yes – over the phone",24
+"43","Cheshire and Merseyside","Yes – via online survey or text",13
+"44","Cornwall and The Isles of Scilly","No",18
+"45","Cornwall and The Isles of Scilly","Not sure",2
+"46","Cornwall and The Isles of Scilly","Yes – face to face",63
+"47","Cornwall and The Isles of Scilly","Yes – over the phone",26
+"48","Cornwall and The Isles of Scilly","Yes – via online survey or text",5
+"49","Coventry and Warwickshire","No",17
+"50","Coventry and Warwickshire","Not sure",2
+"51","Coventry and Warwickshire","Yes – face to face",73
+"52","Coventry and Warwickshire","Yes – over the phone",20
+"53","Coventry and Warwickshire","Yes – via online survey or text",6
+"54","Derby and Derbyshire","No",15
+"55","Derby and Derbyshire","Not sure",6
+"56","Derby and Derbyshire","Yes – face to face",102
+"57","Derby and Derbyshire","Yes – over the phone",35
+"58","Derby and Derbyshire","Yes – via a videocall",1
+"59","Derby and Derbyshire","Yes – via online survey or text",5
+"60","Devon","No",40
+"61","Devon","Not sure",2
+"62","Devon","Yes – face to face",179
+"63","Devon","Yes – over the phone",37
+"64","Devon","Yes – via a videocall",1
+"65","Devon","Yes – via online survey or text",10
+"66","Dorset","No",12
+"67","Dorset","Not sure",4
+"68","Dorset","Yes – face to face",96
+"69","Dorset","Yes – over the phone",16
+"70","Dorset","Yes – via online survey or text",7
+"71","Frimley","No",12
+"72","Frimley","Not sure",2
+"73","Frimley","Yes – face to face",33
+"74","Frimley","Yes – over the phone",12
+"75","Frimley","Yes – via a videocall",2
+"76","Frimley","Yes – via online survey or text",7
+"77","Gloucestershire","No",11
+"78","Gloucestershire","Not sure",7
+"79","Gloucestershire","Yes – face to face",76
+"80","Gloucestershire","Yes – over the phone",8
+"81","Gloucestershire","Yes – via a videocall",1
+"82","Gloucestershire","Yes – via online survey or text",9
+"83","Greater Manchester","No",50
+"84","Greater Manchester","Not sure",10
+"85","Greater Manchester","Yes – face to face",224
+"86","Greater Manchester","Yes – over the phone",26
+"87","Greater Manchester","Yes – via online survey or text",5
+"88","Hampshire and Isle of Wight","No",38
+"89","Hampshire and Isle of Wight","Not sure",10
+"90","Hampshire and Isle of Wight","Yes – face to face",203
+"91","Hampshire and Isle of Wight","Yes – over the phone",48
+"92","Hampshire and Isle of Wight","Yes – via a videocall",2
+"93","Hampshire and Isle of Wight","Yes – via online survey or text",23
+"94","Herefordshire and Worcestershire","No",17
+"95","Herefordshire and Worcestershire","Not sure",2
+"96","Herefordshire and Worcestershire","Yes – face to face",100
+"97","Herefordshire and Worcestershire","Yes – over the phone",13
+"98","Herefordshire and Worcestershire","Yes – via online survey or text",2
+"99","Hertfordshire and West Essex","No",21
+"100","Hertfordshire and West Essex","Not sure",1
+"101","Hertfordshire and West Essex","Yes – face to face",115
+"102","Hertfordshire and West Essex","Yes – over the phone",29
+"103","Hertfordshire and West Essex","Yes – via online survey or text",4
+"104","Humber and North Yorkshire","No",41
+"105","Humber and North Yorkshire","Not sure",10
+"106","Humber and North Yorkshire","Yes – face to face",167
+"107","Humber and North Yorkshire","Yes – over the phone",23
+"108","Humber and North Yorkshire","Yes – via online survey or text",8
+"109","ICB not given","No",374
+"110","ICB not given","Not sure",39
+"111","ICB not given","Yes – face to face",1302
+"112","ICB not given","Yes – over the phone",144
+"113","ICB not given","Yes – via a videocall",7
+"114","ICB not given","Yes – via online survey or text",17
+"115","Kent and Medway","No",35
+"116","Kent and Medway","Not sure",4
+"117","Kent and Medway","Yes – face to face",180
+"118","Kent and Medway","Yes – over the phone",39
+"119","Kent and Medway","Yes – via a videocall",1
+"120","Kent and Medway","Yes – via online survey or text",9
+"121","Lancashire and South Cumbria","No",33
+"122","Lancashire and South Cumbria","Not sure",6
+"123","Lancashire and South Cumbria","Yes – face to face",181
+"124","Lancashire and South Cumbria","Yes – over the phone",24
+"125","Lancashire and South Cumbria","Yes – via online survey or text",2
+"126","Leicester, Leicestershire and Rutland","No",14
+"127","Leicester, Leicestershire and Rutland","Yes – face to face",81
+"128","Leicester, Leicestershire and Rutland","Yes – over the phone",19
+"129","Leicester, Leicestershire and Rutland","Yes – via online survey or text",6
+"130","Lincolnshire","No",28
+"131","Lincolnshire","Not sure",2
+"132","Lincolnshire","Yes – face to face",120
+"133","Lincolnshire","Yes – over the phone",22
+"134","Lincolnshire","Yes – via online survey or text",2
+"135","Mid and South Essex","No",14
+"136","Mid and South Essex","Not sure",4
+"137","Mid and South Essex","Yes – face to face",108
+"138","Mid and South Essex","Yes – over the phone",22
+"139","Mid and South Essex","Yes – via a videocall",4
+"140","Mid and South Essex","Yes – via online survey or text",2
+"141","Norfolk and Waveney","No",31
+"142","Norfolk and Waveney","Not sure",9
+"143","Norfolk and Waveney","Yes – face to face",140
+"144","Norfolk and Waveney","Yes – over the phone",35
+"145","Norfolk and Waveney","Yes – via a videocall",1
+"146","Norfolk and Waveney","Yes – via online survey or text",4
+"147","North Central London","No",11
+"148","North Central London","Not sure",3
+"149","North Central London","Yes – face to face",58
+"150","North Central London","Yes – over the phone",10
+"151","North Cumbria","No",39
+"152","North Cumbria","Not sure",4
+"153","North Cumbria","Yes – face to face",270
+"154","North Cumbria","Yes – over the phone",41
+"155","North Cumbria","Yes – via online survey or text",6
+"156","North East London","No",24
+"157","North East London","Not sure",1
+"158","North East London","Yes – face to face",61
+"159","North East London","Yes – over the phone",16
+"160","North East London","Yes – via online survey or text",4
+"161","North West London","No",12
+"162","North West London","Not sure",4
+"163","North West London","Yes – face to face",88
+"164","North West London","Yes – over the phone",18
+"165","North West London","Yes – via a videocall",3
+"166","North West London","Yes – via online survey or text",3
+"167","Northamptonshire","No",19
+"168","Northamptonshire","Not sure",2
+"169","Northamptonshire","Yes – face to face",67
+"170","Northamptonshire","Yes – over the phone",8
+"171","Northamptonshire","Yes – via online survey or text",2
+"172","Nottingham and Nottinghamshire","No",15
+"173","Nottingham and Nottinghamshire","Not sure",4
+"174","Nottingham and Nottinghamshire","Yes – face to face",117
+"175","Nottingham and Nottinghamshire","Yes – over the phone",22
+"176","Nottingham and Nottinghamshire","Yes – via online survey or text",5
+"177","Shropshire, Telford and Wrekin","No",16
+"178","Shropshire, Telford and Wrekin","Not sure",1
+"179","Shropshire, Telford and Wrekin","Yes – face to face",65
+"180","Shropshire, Telford and Wrekin","Yes – over the phone",15
+"181","Shropshire, Telford and Wrekin","Yes – via online survey or text",1
+"182","Somerset","No",16
+"183","Somerset","Not sure",1
+"184","Somerset","Yes – face to face",75
+"185","Somerset","Yes – over the phone",11
+"186","South East London","No",22
+"187","South East London","Not sure",3
+"188","South East London","Yes – face to face",106
+"189","South East London","Yes – over the phone",9
+"190","South East London","Yes – via a videocall",3
+"191","South East London","Yes – via online survey or text",1
+"192","South West London","No",15
+"193","South West London","Not sure",2
+"194","South West London","Yes – face to face",81
+"195","South West London","Yes – over the phone",19
+"196","South West London","Yes – via a videocall",2
+"197","South West London","Yes – via online survey or text",4
+"198","South Yorkshire","No",20
+"199","South Yorkshire","Yes – face to face",163
+"200","South Yorkshire","Yes – over the phone",14
+"201","South Yorkshire","Yes – via online survey or text",1
+"202","Staffordshire and Stoke-on-Trent","No",26
+"203","Staffordshire and Stoke-on-Trent","Not sure",2
+"204","Staffordshire and Stoke-on-Trent","Yes – face to face",119
+"205","Staffordshire and Stoke-on-Trent","Yes – over the phone",21
+"206","Staffordshire and Stoke-on-Trent","Yes – via online survey or text",5
+"207","Suffolk and North East Essex","No",15
+"208","Suffolk and North East Essex","Not sure",5
+"209","Suffolk and North East Essex","Yes – face to face",128
+"210","Suffolk and North East Essex","Yes – over the phone",20
+"211","Suffolk and North East Essex","Yes – via online survey or text",6
+"212","Surrey Heartlands","No",14
+"213","Surrey Heartlands","Not sure",3
+"214","Surrey Heartlands","Yes – face to face",61
+"215","Surrey Heartlands","Yes – over the phone",9
+"216","Surrey Heartlands","Yes – via a videocall",1
+"217","Surrey Heartlands","Yes – via online survey or text",6
+"218","Sussex","No",36
+"219","Sussex","Not sure",3
+"220","Sussex","Yes – face to face",210
+"221","Sussex","Yes – over the phone",36
+"222","Sussex","Yes – via a videocall",5
+"223","Sussex","Yes – via online survey or text",14
+"224","West Yorkshire","No",28
+"225","West Yorkshire","Not sure",3
+"226","West Yorkshire","Yes – face to face",177
+"227","West Yorkshire","Yes – over the phone",43
+"228","West Yorkshire","Yes – via online survey or text",15

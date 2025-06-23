@@ -1,0 +1,345 @@
+"","demographics_icb","actions","count_review_detail"
+"1","Bath and North East Somerset, Swindon and Wiltshire","Symptoms discussed",95
+"2","Bath and North East Somerset, Swindon and Wiltshire","Exacerbations discussed",64
+"3","Bath and North East Somerset, Swindon and Wiltshire","Medication discussed",87
+"4","Bath and North East Somerset, Swindon and Wiltshire","Paper self-management plan reviewed",28
+"5","Bath and North East Somerset, Swindon and Wiltshire","Digital self-management plan reviewed",10
+"6","Bath and North East Somerset, Swindon and Wiltshire","Inhaler technique checked",35
+"7","Bath and North East Somerset, Swindon and Wiltshire","FeNO test",11
+"8","Bath and North East Somerset, Swindon and Wiltshire","None of the above",5
+"9","Bedfordshire, Luton and Milton Keynes","Symptoms discussed",71
+"10","Bedfordshire, Luton and Milton Keynes","Exacerbations discussed",54
+"11","Bedfordshire, Luton and Milton Keynes","Medication discussed",68
+"12","Bedfordshire, Luton and Milton Keynes","Paper self-management plan reviewed",18
+"13","Bedfordshire, Luton and Milton Keynes","Digital self-management plan reviewed",10
+"14","Bedfordshire, Luton and Milton Keynes","Inhaler technique checked",27
+"15","Bedfordshire, Luton and Milton Keynes","FeNO test",15
+"16","Bedfordshire, Luton and Milton Keynes","None of the above",4
+"17","Birmingham and Solihull","Symptoms discussed",68
+"18","Birmingham and Solihull","Exacerbations discussed",52
+"19","Birmingham and Solihull","Medication discussed",68
+"20","Birmingham and Solihull","Paper self-management plan reviewed",19
+"21","Birmingham and Solihull","Digital self-management plan reviewed",10
+"22","Birmingham and Solihull","Inhaler technique checked",29
+"23","Birmingham and Solihull","FeNO test",5
+"24","Birmingham and Solihull","None of the above",5
+"25","Black Country","Symptoms discussed",74
+"26","Black Country","Exacerbations discussed",51
+"27","Black Country","Medication discussed",72
+"28","Black Country","Paper self-management plan reviewed",22
+"29","Black Country","Digital self-management plan reviewed",10
+"30","Black Country","Inhaler technique checked",38
+"31","Black Country","FeNO test",10
+"32","Black Country","None of the above",3
+"33","Bristol, North Somerset and South Gloucestershire","Symptoms discussed",78
+"34","Bristol, North Somerset and South Gloucestershire","Exacerbations discussed",69
+"35","Bristol, North Somerset and South Gloucestershire","Medication discussed",81
+"36","Bristol, North Somerset and South Gloucestershire","Paper self-management plan reviewed",19
+"37","Bristol, North Somerset and South Gloucestershire","Digital self-management plan reviewed",10
+"38","Bristol, North Somerset and South Gloucestershire","Inhaler technique checked",25
+"39","Bristol, North Somerset and South Gloucestershire","FeNO test",15
+"40","Bristol, North Somerset and South Gloucestershire","None of the above",6
+"41","Buckinghamshire, Oxfordshire and Berkshire West","Symptoms discussed",130
+"42","Buckinghamshire, Oxfordshire and Berkshire West","Exacerbations discussed",110
+"43","Buckinghamshire, Oxfordshire and Berkshire West","Medication discussed",119
+"44","Buckinghamshire, Oxfordshire and Berkshire West","Paper self-management plan reviewed",34
+"45","Buckinghamshire, Oxfordshire and Berkshire West","Digital self-management plan reviewed",10
+"46","Buckinghamshire, Oxfordshire and Berkshire West","Inhaler technique checked",55
+"47","Buckinghamshire, Oxfordshire and Berkshire West","FeNO test",22
+"48","Buckinghamshire, Oxfordshire and Berkshire West","None of the above",8
+"49","Cambridgeshire and Peterborough","Symptoms discussed",94
+"50","Cambridgeshire and Peterborough","Exacerbations discussed",71
+"51","Cambridgeshire and Peterborough","Medication discussed",88
+"52","Cambridgeshire and Peterborough","Paper self-management plan reviewed",19
+"53","Cambridgeshire and Peterborough","Digital self-management plan reviewed",13
+"54","Cambridgeshire and Peterborough","Inhaler technique checked",30
+"55","Cambridgeshire and Peterborough","FeNO test",12
+"56","Cambridgeshire and Peterborough","None of the above",4
+"57","Cheshire and Merseyside","Symptoms discussed",188
+"58","Cheshire and Merseyside","Exacerbations discussed",171
+"59","Cheshire and Merseyside","Medication discussed",188
+"60","Cheshire and Merseyside","Paper self-management plan reviewed",55
+"61","Cheshire and Merseyside","Digital self-management plan reviewed",20
+"62","Cheshire and Merseyside","Inhaler technique checked",87
+"63","Cheshire and Merseyside","FeNO test",35
+"64","Cheshire and Merseyside","None of the above",12
+"65","Cornwall and The Isles of Scilly","Symptoms discussed",68
+"66","Cornwall and The Isles of Scilly","Exacerbations discussed",48
+"67","Cornwall and The Isles of Scilly","Medication discussed",70
+"68","Cornwall and The Isles of Scilly","Paper self-management plan reviewed",25
+"69","Cornwall and The Isles of Scilly","Digital self-management plan reviewed",4
+"70","Cornwall and The Isles of Scilly","Inhaler technique checked",34
+"71","Cornwall and The Isles of Scilly","FeNO test",12
+"72","Cornwall and The Isles of Scilly","None of the above",4
+"73","Coventry and Warwickshire","Symptoms discussed",61
+"74","Coventry and Warwickshire","Exacerbations discussed",58
+"75","Coventry and Warwickshire","Medication discussed",77
+"76","Coventry and Warwickshire","Paper self-management plan reviewed",14
+"77","Coventry and Warwickshire","Digital self-management plan reviewed",6
+"78","Coventry and Warwickshire","Inhaler technique checked",20
+"79","Coventry and Warwickshire","FeNO test",8
+"80","Coventry and Warwickshire","None of the above",3
+"81","Derby and Derbyshire","Symptoms discussed",97
+"82","Derby and Derbyshire","Exacerbations discussed",73
+"83","Derby and Derbyshire","Medication discussed",96
+"84","Derby and Derbyshire","Paper self-management plan reviewed",29
+"85","Derby and Derbyshire","Digital self-management plan reviewed",9
+"86","Derby and Derbyshire","Inhaler technique checked",36
+"87","Derby and Derbyshire","FeNO test",10
+"88","Derby and Derbyshire","None of the above",9
+"89","Devon","Symptoms discussed",169
+"90","Devon","Exacerbations discussed",134
+"91","Devon","Medication discussed",169
+"92","Devon","Paper self-management plan reviewed",54
+"93","Devon","Digital self-management plan reviewed",32
+"94","Devon","Inhaler technique checked",65
+"95","Devon","FeNO test",32
+"96","Devon","None of the above",6
+"97","Dorset","Symptoms discussed",81
+"98","Dorset","Exacerbations discussed",72
+"99","Dorset","Medication discussed",86
+"100","Dorset","Paper self-management plan reviewed",29
+"101","Dorset","Digital self-management plan reviewed",17
+"102","Dorset","Inhaler technique checked",46
+"103","Dorset","FeNO test",15
+"104","Dorset","None of the above",6
+"105","Frimley","Symptoms discussed",40
+"106","Frimley","Exacerbations discussed",26
+"107","Frimley","Medication discussed",39
+"108","Frimley","Paper self-management plan reviewed",13
+"109","Frimley","Digital self-management plan reviewed",6
+"110","Frimley","Inhaler technique checked",13
+"111","Frimley","FeNO test",4
+"112","Frimley","None of the above",3
+"113","Gloucestershire","Symptoms discussed",67
+"114","Gloucestershire","Exacerbations discussed",51
+"115","Gloucestershire","Medication discussed",59
+"116","Gloucestershire","Paper self-management plan reviewed",15
+"117","Gloucestershire","Digital self-management plan reviewed",9
+"118","Gloucestershire","Inhaler technique checked",34
+"119","Gloucestershire","FeNO test",6
+"120","Gloucestershire","None of the above",3
+"121","Greater Manchester","Symptoms discussed",169
+"122","Greater Manchester","Exacerbations discussed",157
+"123","Greater Manchester","Medication discussed",185
+"124","Greater Manchester","Paper self-management plan reviewed",51
+"125","Greater Manchester","Digital self-management plan reviewed",20
+"126","Greater Manchester","Inhaler technique checked",75
+"127","Greater Manchester","FeNO test",33
+"128","Greater Manchester","None of the above",10
+"129","Hampshire and Isle of Wight","Symptoms discussed",197
+"130","Hampshire and Isle of Wight","Exacerbations discussed",155
+"131","Hampshire and Isle of Wight","Medication discussed",186
+"132","Hampshire and Isle of Wight","Paper self-management plan reviewed",47
+"133","Hampshire and Isle of Wight","Digital self-management plan reviewed",27
+"134","Hampshire and Isle of Wight","Inhaler technique checked",72
+"135","Hampshire and Isle of Wight","FeNO test",30
+"136","Hampshire and Isle of Wight","None of the above",7
+"137","Herefordshire and Worcestershire","Symptoms discussed",76
+"138","Herefordshire and Worcestershire","Exacerbations discussed",60
+"139","Herefordshire and Worcestershire","Medication discussed",84
+"140","Herefordshire and Worcestershire","Paper self-management plan reviewed",29
+"141","Herefordshire and Worcestershire","Digital self-management plan reviewed",11
+"142","Herefordshire and Worcestershire","Inhaler technique checked",35
+"143","Herefordshire and Worcestershire","FeNO test",17
+"144","Herefordshire and Worcestershire","None of the above",NA
+"145","Hertfordshire and West Essex","Symptoms discussed",106
+"146","Hertfordshire and West Essex","Exacerbations discussed",74
+"147","Hertfordshire and West Essex","Medication discussed",98
+"148","Hertfordshire and West Essex","Paper self-management plan reviewed",19
+"149","Hertfordshire and West Essex","Digital self-management plan reviewed",8
+"150","Hertfordshire and West Essex","Inhaler technique checked",45
+"151","Hertfordshire and West Essex","FeNO test",11
+"152","Hertfordshire and West Essex","None of the above",7
+"153","Humber and North Yorkshire","Symptoms discussed",129
+"154","Humber and North Yorkshire","Exacerbations discussed",91
+"155","Humber and North Yorkshire","Medication discussed",117
+"156","Humber and North Yorkshire","Paper self-management plan reviewed",28
+"157","Humber and North Yorkshire","Digital self-management plan reviewed",10
+"158","Humber and North Yorkshire","Inhaler technique checked",57
+"159","Humber and North Yorkshire","FeNO test",18
+"160","Humber and North Yorkshire","None of the above",12
+"161","ICB not given","Symptoms discussed",941
+"162","ICB not given","Exacerbations discussed",652
+"163","ICB not given","Medication discussed",943
+"164","ICB not given","Paper self-management plan reviewed",263
+"165","ICB not given","Digital self-management plan reviewed",89
+"166","ICB not given","Inhaler technique checked",456
+"167","ICB not given","FeNO test",140
+"168","ICB not given","None of the above",89
+"169","Kent and Medway","Symptoms discussed",158
+"170","Kent and Medway","Exacerbations discussed",137
+"171","Kent and Medway","Medication discussed",157
+"172","Kent and Medway","Paper self-management plan reviewed",44
+"173","Kent and Medway","Digital self-management plan reviewed",23
+"174","Kent and Medway","Inhaler technique checked",69
+"175","Kent and Medway","FeNO test",24
+"176","Kent and Medway","None of the above",14
+"177","Lancashire and South Cumbria","Symptoms discussed",142
+"178","Lancashire and South Cumbria","Exacerbations discussed",111
+"179","Lancashire and South Cumbria","Medication discussed",140
+"180","Lancashire and South Cumbria","Paper self-management plan reviewed",29
+"181","Lancashire and South Cumbria","Digital self-management plan reviewed",11
+"182","Lancashire and South Cumbria","Inhaler technique checked",69
+"183","Lancashire and South Cumbria","FeNO test",28
+"184","Lancashire and South Cumbria","None of the above",10
+"185","Leicester, Leicestershire and Rutland","Symptoms discussed",78
+"186","Leicester, Leicestershire and Rutland","Exacerbations discussed",54
+"187","Leicester, Leicestershire and Rutland","Medication discussed",67
+"188","Leicester, Leicestershire and Rutland","Paper self-management plan reviewed",12
+"189","Leicester, Leicestershire and Rutland","Digital self-management plan reviewed",7
+"190","Leicester, Leicestershire and Rutland","Inhaler technique checked",28
+"191","Leicester, Leicestershire and Rutland","FeNO test",8
+"192","Leicester, Leicestershire and Rutland","None of the above",5
+"193","Lincolnshire","Symptoms discussed",100
+"194","Lincolnshire","Exacerbations discussed",76
+"195","Lincolnshire","Medication discussed",110
+"196","Lincolnshire","Paper self-management plan reviewed",28
+"197","Lincolnshire","Digital self-management plan reviewed",20
+"198","Lincolnshire","Inhaler technique checked",58
+"199","Lincolnshire","FeNO test",16
+"200","Lincolnshire","None of the above",10
+"201","Mid and South Essex","Symptoms discussed",96
+"202","Mid and South Essex","Exacerbations discussed",62
+"203","Mid and South Essex","Medication discussed",90
+"204","Mid and South Essex","Paper self-management plan reviewed",24
+"205","Mid and South Essex","Digital self-management plan reviewed",10
+"206","Mid and South Essex","Inhaler technique checked",30
+"207","Mid and South Essex","FeNO test",10
+"208","Mid and South Essex","None of the above",3
+"209","Norfolk and Waveney","Symptoms discussed",112
+"210","Norfolk and Waveney","Exacerbations discussed",92
+"211","Norfolk and Waveney","Medication discussed",115
+"212","Norfolk and Waveney","Paper self-management plan reviewed",41
+"213","Norfolk and Waveney","Digital self-management plan reviewed",10
+"214","Norfolk and Waveney","Inhaler technique checked",44
+"215","Norfolk and Waveney","FeNO test",17
+"216","Norfolk and Waveney","None of the above",15
+"217","North Central London","Symptoms discussed",50
+"218","North Central London","Exacerbations discussed",35
+"219","North Central London","Medication discussed",47
+"220","North Central London","Paper self-management plan reviewed",14
+"221","North Central London","Digital self-management plan reviewed",6
+"222","North Central London","Inhaler technique checked",22
+"223","North Central London","FeNO test",7
+"224","North Central London","None of the above",2
+"225","North Cumbria","Symptoms discussed",230
+"226","North Cumbria","Exacerbations discussed",172
+"227","North Cumbria","Medication discussed",215
+"228","North Cumbria","Paper self-management plan reviewed",61
+"229","North Cumbria","Digital self-management plan reviewed",31
+"230","North Cumbria","Inhaler technique checked",91
+"231","North Cumbria","FeNO test",26
+"232","North Cumbria","None of the above",15
+"233","North East London","Symptoms discussed",62
+"234","North East London","Exacerbations discussed",50
+"235","North East London","Medication discussed",60
+"236","North East London","Paper self-management plan reviewed",19
+"237","North East London","Digital self-management plan reviewed",7
+"238","North East London","Inhaler technique checked",25
+"239","North East London","FeNO test",7
+"240","North East London","None of the above",3
+"241","North West London","Symptoms discussed",84
+"242","North West London","Exacerbations discussed",55
+"243","North West London","Medication discussed",75
+"244","North West London","Paper self-management plan reviewed",25
+"245","North West London","Digital self-management plan reviewed",7
+"246","North West London","Inhaler technique checked",28
+"247","North West London","FeNO test",6
+"248","North West London","None of the above",5
+"249","Northamptonshire","Symptoms discussed",58
+"250","Northamptonshire","Exacerbations discussed",48
+"251","Northamptonshire","Medication discussed",54
+"252","Northamptonshire","Paper self-management plan reviewed",12
+"253","Northamptonshire","Digital self-management plan reviewed",11
+"254","Northamptonshire","Inhaler technique checked",16
+"255","Northamptonshire","FeNO test",5
+"256","Northamptonshire","None of the above",2
+"257","Nottingham and Nottinghamshire","Symptoms discussed",100
+"258","Nottingham and Nottinghamshire","Exacerbations discussed",78
+"259","Nottingham and Nottinghamshire","Medication discussed",94
+"260","Nottingham and Nottinghamshire","Paper self-management plan reviewed",38
+"261","Nottingham and Nottinghamshire","Digital self-management plan reviewed",12
+"262","Nottingham and Nottinghamshire","Inhaler technique checked",55
+"263","Nottingham and Nottinghamshire","FeNO test",19
+"264","Nottingham and Nottinghamshire","None of the above",10
+"265","Shropshire, Telford and Wrekin","Symptoms discussed",52
+"266","Shropshire, Telford and Wrekin","Exacerbations discussed",40
+"267","Shropshire, Telford and Wrekin","Medication discussed",52
+"268","Shropshire, Telford and Wrekin","Paper self-management plan reviewed",16
+"269","Shropshire, Telford and Wrekin","Digital self-management plan reviewed",4
+"270","Shropshire, Telford and Wrekin","Inhaler technique checked",18
+"271","Shropshire, Telford and Wrekin","FeNO test",6
+"272","Shropshire, Telford and Wrekin","None of the above",2
+"273","Somerset","Symptoms discussed",58
+"274","Somerset","Exacerbations discussed",49
+"275","Somerset","Medication discussed",59
+"276","Somerset","Paper self-management plan reviewed",21
+"277","Somerset","Digital self-management plan reviewed",3
+"278","Somerset","Inhaler technique checked",24
+"279","Somerset","FeNO test",16
+"280","Somerset","None of the above",4
+"281","South East London","Symptoms discussed",77
+"282","South East London","Exacerbations discussed",70
+"283","South East London","Medication discussed",82
+"284","South East London","Paper self-management plan reviewed",17
+"285","South East London","Digital self-management plan reviewed",16
+"286","South East London","Inhaler technique checked",41
+"287","South East London","FeNO test",18
+"288","South East London","None of the above",9
+"289","South West London","Symptoms discussed",77
+"290","South West London","Exacerbations discussed",72
+"291","South West London","Medication discussed",73
+"292","South West London","Paper self-management plan reviewed",16
+"293","South West London","Digital self-management plan reviewed",12
+"294","South West London","Inhaler technique checked",31
+"295","South West London","FeNO test",11
+"296","South West London","None of the above",4
+"297","South Yorkshire","Symptoms discussed",138
+"298","South Yorkshire","Exacerbations discussed",104
+"299","South Yorkshire","Medication discussed",125
+"300","South Yorkshire","Paper self-management plan reviewed",38
+"301","South Yorkshire","Digital self-management plan reviewed",25
+"302","South Yorkshire","Inhaler technique checked",62
+"303","South Yorkshire","FeNO test",21
+"304","South Yorkshire","None of the above",9
+"305","Staffordshire and Stoke-on-Trent","Symptoms discussed",101
+"306","Staffordshire and Stoke-on-Trent","Exacerbations discussed",87
+"307","Staffordshire and Stoke-on-Trent","Medication discussed",105
+"308","Staffordshire and Stoke-on-Trent","Paper self-management plan reviewed",30
+"309","Staffordshire and Stoke-on-Trent","Digital self-management plan reviewed",10
+"310","Staffordshire and Stoke-on-Trent","Inhaler technique checked",42
+"311","Staffordshire and Stoke-on-Trent","FeNO test",13
+"312","Staffordshire and Stoke-on-Trent","None of the above",7
+"313","Suffolk and North East Essex","Symptoms discussed",106
+"314","Suffolk and North East Essex","Exacerbations discussed",93
+"315","Suffolk and North East Essex","Medication discussed",109
+"316","Suffolk and North East Essex","Paper self-management plan reviewed",30
+"317","Suffolk and North East Essex","Digital self-management plan reviewed",15
+"318","Suffolk and North East Essex","Inhaler technique checked",29
+"319","Suffolk and North East Essex","FeNO test",11
+"320","Suffolk and North East Essex","None of the above",5
+"321","Surrey Heartlands","Symptoms discussed",59
+"322","Surrey Heartlands","Exacerbations discussed",45
+"323","Surrey Heartlands","Medication discussed",51
+"324","Surrey Heartlands","Paper self-management plan reviewed",15
+"325","Surrey Heartlands","Digital self-management plan reviewed",7
+"326","Surrey Heartlands","Inhaler technique checked",26
+"327","Surrey Heartlands","FeNO test",5
+"328","Surrey Heartlands","None of the above",3
+"329","Sussex","Symptoms discussed",182
+"330","Sussex","Exacerbations discussed",142
+"331","Sussex","Medication discussed",173
+"332","Sussex","Paper self-management plan reviewed",49
+"333","Sussex","Digital self-management plan reviewed",23
+"334","Sussex","Inhaler technique checked",65
+"335","Sussex","FeNO test",25
+"336","Sussex","None of the above",19
+"337","West Yorkshire","Symptoms discussed",164
+"338","West Yorkshire","Exacerbations discussed",121
+"339","West Yorkshire","Medication discussed",158
+"340","West Yorkshire","Paper self-management plan reviewed",28
+"341","West Yorkshire","Digital self-management plan reviewed",17
+"342","West Yorkshire","Inhaler technique checked",61
+"343","West Yorkshire","FeNO test",12
+"344","West Yorkshire","None of the above",17

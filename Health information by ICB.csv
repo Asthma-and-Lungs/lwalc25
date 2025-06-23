@@ -1,0 +1,279 @@
+"","demographics_icb","information_format","information_format_access","info_count"
+"1","Bath and North East Somerset, Swindon and Wiltshire","Digital format","No",20
+"2","Bath and North East Somerset, Swindon and Wiltshire","Digital format","Yes",22
+"3","Bath and North East Somerset, Swindon and Wiltshire","Digital format","Not given",1
+"4","Bath and North East Somerset, Swindon and Wiltshire","No preference","Not given",47
+"5","Bath and North East Somerset, Swindon and Wiltshire","Physical format","No",26
+"6","Bath and North East Somerset, Swindon and Wiltshire","Physical format","Yes",15
+"7","Bath and North East Somerset, Swindon and Wiltshire","Physical format","Not given",1
+"8","Bedfordshire, Luton and Milton Keynes","Digital format","No",16
+"9","Bedfordshire, Luton and Milton Keynes","Digital format","Yes",12
+"10","Bedfordshire, Luton and Milton Keynes","Digital format","Not given",2
+"11","Bedfordshire, Luton and Milton Keynes","No preference","Not given",54
+"12","Bedfordshire, Luton and Milton Keynes","Physical format","No",25
+"13","Bedfordshire, Luton and Milton Keynes","Physical format","Yes",7
+"14","Birmingham and Solihull","Digital format","No",25
+"15","Birmingham and Solihull","Digital format","Yes",14
+"16","Birmingham and Solihull","No preference","Not given",44
+"17","Birmingham and Solihull","Physical format","No",22
+"18","Birmingham and Solihull","Physical format","Yes",11
+"19","Birmingham and Solihull","Physical format","Not given",2
+"20","Black Country","Digital format","No",27
+"21","Black Country","Digital format","Yes",13
+"22","Black Country","No preference","Not given",45
+"23","Black Country","Physical format","No",18
+"24","Black Country","Physical format","Yes",13
+"25","Black Country","Physical format","Not given",3
+"26","Bristol, North Somerset and South Gloucestershire","Digital format","No",21
+"27","Bristol, North Somerset and South Gloucestershire","Digital format","Yes",22
+"28","Bristol, North Somerset and South Gloucestershire","Digital format","Not given",1
+"29","Bristol, North Somerset and South Gloucestershire","No preference","Not given",58
+"30","Bristol, North Somerset and South Gloucestershire","Physical format","No",18
+"31","Bristol, North Somerset and South Gloucestershire","Physical format","Yes",23
+"32","Bristol, North Somerset and South Gloucestershire","Physical format","Not given",2
+"33","Buckinghamshire, Oxfordshire and Berkshire West","Digital format","No",38
+"34","Buckinghamshire, Oxfordshire and Berkshire West","Digital format","Yes",26
+"35","Buckinghamshire, Oxfordshire and Berkshire West","Digital format","Not given",1
+"36","Buckinghamshire, Oxfordshire and Berkshire West","No preference","Not given",90
+"37","Buckinghamshire, Oxfordshire and Berkshire West","Physical format","No",30
+"38","Buckinghamshire, Oxfordshire and Berkshire West","Physical format","Yes",19
+"39","Buckinghamshire, Oxfordshire and Berkshire West","Physical format","Not given",2
+"40","Cambridgeshire and Peterborough","Digital format","No",20
+"41","Cambridgeshire and Peterborough","Digital format","Yes",23
+"42","Cambridgeshire and Peterborough","No preference","Not given",60
+"43","Cambridgeshire and Peterborough","Physical format","No",19
+"44","Cambridgeshire and Peterborough","Physical format","Yes",16
+"45","Cambridgeshire and Peterborough","Physical format","Not given",1
+"46","Cheshire and Merseyside","Digital format","No",64
+"47","Cheshire and Merseyside","Digital format","Yes",46
+"48","Cheshire and Merseyside","Digital format","Not given",6
+"49","Cheshire and Merseyside","No preference","Not given",124
+"50","Cheshire and Merseyside","Physical format","No",51
+"51","Cheshire and Merseyside","Physical format","Yes",33
+"52","Cornwall and The Isles of Scilly","Digital format","No",19
+"53","Cornwall and The Isles of Scilly","Digital format","Yes",14
+"54","Cornwall and The Isles of Scilly","Digital format","Not given",1
+"55","Cornwall and The Isles of Scilly","No preference","Not given",41
+"56","Cornwall and The Isles of Scilly","Physical format","No",23
+"57","Cornwall and The Isles of Scilly","Physical format","Yes",15
+"58","Coventry and Warwickshire","Digital format","No",17
+"59","Coventry and Warwickshire","Digital format","Yes",17
+"60","Coventry and Warwickshire","Digital format","Not given",1
+"61","Coventry and Warwickshire","No preference","Not given",38
+"62","Coventry and Warwickshire","Physical format","No",18
+"63","Coventry and Warwickshire","Physical format","Yes",22
+"64","Coventry and Warwickshire","Physical format","Not given",1
+"65","Derby and Derbyshire","Digital format","No",26
+"66","Derby and Derbyshire","Digital format","Yes",24
+"67","Derby and Derbyshire","Digital format","Not given",6
+"68","Derby and Derbyshire","No preference","Not given",60
+"69","Derby and Derbyshire","Physical format","No",27
+"70","Derby and Derbyshire","Physical format","Yes",20
+"71","Derby and Derbyshire","Physical format","Not given",2
+"72","Devon","Digital format","No",31
+"73","Devon","Digital format","Yes",37
+"74","Devon","Digital format","Not given",3
+"75","Devon","No preference","Not given",115
+"76","Devon","Physical format","No",37
+"77","Devon","Physical format","Yes",39
+"78","Devon","Physical format","Not given",2
+"79","Dorset","Digital format","No",13
+"80","Dorset","Digital format","Yes",19
+"81","Dorset","No preference","Not given",62
+"82","Dorset","Physical format","No",23
+"83","Dorset","Physical format","Yes",21
+"84","Frimley","Digital format","No",11
+"85","Frimley","Digital format","Yes",4
+"86","Frimley","No preference","Not given",30
+"87","Frimley","Physical format","No",14
+"88","Frimley","Physical format","Yes",7
+"89","Gloucestershire","Digital format","No",18
+"90","Gloucestershire","Digital format","Yes",15
+"91","Gloucestershire","Digital format","Not given",2
+"92","Gloucestershire","No preference","Not given",46
+"93","Gloucestershire","Physical format","No",19
+"94","Gloucestershire","Physical format","Yes",8
+"95","Gloucestershire","Physical format","Not given",1
+"96","Greater Manchester","Digital format","No",43
+"97","Greater Manchester","Digital format","Yes",41
+"98","Greater Manchester","Digital format","Not given",2
+"99","Greater Manchester","No preference","Not given",126
+"100","Greater Manchester","Physical format","No",58
+"101","Greater Manchester","Physical format","Yes",41
+"102","Greater Manchester","Physical format","Not given",2
+"103","Hampshire and Isle of Wight","Digital format","No",48
+"104","Hampshire and Isle of Wight","Digital format","Yes",57
+"105","Hampshire and Isle of Wight","Digital format","Not given",4
+"106","Hampshire and Isle of Wight","No preference","Not given",133
+"107","Hampshire and Isle of Wight","Physical format","No",45
+"108","Hampshire and Isle of Wight","Physical format","Yes",31
+"109","Herefordshire and Worcestershire","Digital format","No",18
+"110","Herefordshire and Worcestershire","Digital format","Yes",7
+"111","Herefordshire and Worcestershire","No preference","Not given",61
+"112","Herefordshire and Worcestershire","Physical format","No",24
+"113","Herefordshire and Worcestershire","Physical format","Yes",19
+"114","Herefordshire and Worcestershire","Physical format","Not given",1
+"115","Hertfordshire and West Essex","Digital format","No",17
+"116","Hertfordshire and West Essex","Digital format","Yes",21
+"117","Hertfordshire and West Essex","Digital format","Not given",3
+"118","Hertfordshire and West Essex","No preference","Not given",82
+"119","Hertfordshire and West Essex","Physical format","No",20
+"120","Hertfordshire and West Essex","Physical format","Yes",26
+"121","Hertfordshire and West Essex","Physical format","Not given",1
+"122","Humber and North Yorkshire","Digital format","No",38
+"123","Humber and North Yorkshire","Digital format","Yes",22
+"124","Humber and North Yorkshire","Digital format","Not given",2
+"125","Humber and North Yorkshire","No preference","Not given",121
+"126","Humber and North Yorkshire","Physical format","No",40
+"127","Humber and North Yorkshire","Physical format","Yes",23
+"128","Humber and North Yorkshire","Physical format","Not given",4
+"129","ICB not given","Digital format","No",303
+"130","ICB not given","Digital format","Yes",158
+"131","ICB not given","Digital format","Not given",21
+"132","ICB not given","No preference","Not given",782
+"133","ICB not given","Physical format","No",339
+"134","ICB not given","Physical format","Yes",219
+"135","ICB not given","Physical format","Not given",21
+"136","Kent and Medway","Digital format","No",33
+"137","Kent and Medway","Digital format","Yes",22
+"138","Kent and Medway","Digital format","Not given",3
+"139","Kent and Medway","No preference","Not given",134
+"140","Kent and Medway","Physical format","No",40
+"141","Kent and Medway","Physical format","Yes",33
+"142","Kent and Medway","Physical format","Not given",1
+"143","Lancashire and South Cumbria","Digital format","No",47
+"144","Lancashire and South Cumbria","Digital format","Yes",31
+"145","Lancashire and South Cumbria","Digital format","Not given",2
+"146","Lancashire and South Cumbria","No preference","Not given",103
+"147","Lancashire and South Cumbria","Physical format","No",33
+"148","Lancashire and South Cumbria","Physical format","Yes",30
+"149","Leicester, Leicestershire and Rutland","Digital format","No",21
+"150","Leicester, Leicestershire and Rutland","Digital format","Yes",11
+"151","Leicester, Leicestershire and Rutland","Digital format","Not given",2
+"152","Leicester, Leicestershire and Rutland","No preference","Not given",54
+"153","Leicester, Leicestershire and Rutland","Physical format","No",15
+"154","Leicester, Leicestershire and Rutland","Physical format","Yes",15
+"155","Lincolnshire","Digital format","No",29
+"156","Lincolnshire","Digital format","Yes",15
+"157","Lincolnshire","Digital format","Not given",3
+"158","Lincolnshire","No preference","Not given",77
+"159","Lincolnshire","Physical format","No",31
+"160","Lincolnshire","Physical format","Yes",19
+"161","Lincolnshire","Physical format","Not given",1
+"162","Mid and South Essex","Digital format","No",30
+"163","Mid and South Essex","Digital format","Yes",13
+"164","Mid and South Essex","Digital format","Not given",1
+"165","Mid and South Essex","No preference","Not given",64
+"166","Mid and South Essex","Physical format","No",31
+"167","Mid and South Essex","Physical format","Yes",14
+"168","Mid and South Essex","Physical format","Not given",2
+"169","Norfolk and Waveney","Digital format","No",32
+"170","Norfolk and Waveney","Digital format","Yes",28
+"171","Norfolk and Waveney","Digital format","Not given",1
+"172","Norfolk and Waveney","No preference","Not given",85
+"173","Norfolk and Waveney","Physical format","No",34
+"174","Norfolk and Waveney","Physical format","Yes",38
+"175","Norfolk and Waveney","Physical format","Not given",2
+"176","North Central London","Digital format","No",12
+"177","North Central London","Digital format","Yes",10
+"178","North Central London","No preference","Not given",37
+"179","North Central London","Physical format","No",13
+"180","North Central London","Physical format","Yes",12
+"181","North Central London","Physical format","Not given",1
+"182","North Cumbria","Digital format","No",62
+"183","North Cumbria","Digital format","Yes",41
+"184","North Cumbria","Digital format","Not given",7
+"185","North Cumbria","No preference","Not given",144
+"186","North Cumbria","Physical format","No",49
+"187","North Cumbria","Physical format","Yes",43
+"188","North Cumbria","Physical format","Not given",3
+"189","North East London","Digital format","No",18
+"190","North East London","Digital format","Yes",12
+"191","North East London","Digital format","Not given",3
+"192","North East London","No preference","Not given",37
+"193","North East London","Physical format","No",17
+"194","North East London","Physical format","Yes",16
+"195","North East London","Physical format","Not given",1
+"196","North West London","Digital format","No",27
+"197","North West London","Digital format","Yes",15
+"198","North West London","Digital format","Not given",1
+"199","North West London","No preference","Not given",38
+"200","North West London","Physical format","No",26
+"201","North West London","Physical format","Yes",18
+"202","North West London","Physical format","Not given",3
+"203","Northamptonshire","Digital format","No",10
+"204","Northamptonshire","Digital format","Yes",15
+"205","Northamptonshire","No preference","Not given",44
+"206","Northamptonshire","Physical format","No",18
+"207","Northamptonshire","Physical format","Yes",7
+"208","Northamptonshire","Physical format","Not given",2
+"209","Nottingham and Nottinghamshire","Digital format","No",15
+"210","Nottingham and Nottinghamshire","Digital format","Yes",13
+"211","Nottingham and Nottinghamshire","Digital format","Not given",2
+"212","Nottingham and Nottinghamshire","No preference","Not given",73
+"213","Nottingham and Nottinghamshire","Physical format","No",29
+"214","Nottingham and Nottinghamshire","Physical format","Yes",29
+"215","Nottingham and Nottinghamshire","Physical format","Not given",3
+"216","Shropshire, Telford and Wrekin","Digital format","No",13
+"217","Shropshire, Telford and Wrekin","Digital format","Yes",11
+"218","Shropshire, Telford and Wrekin","No preference","Not given",43
+"219","Shropshire, Telford and Wrekin","Physical format","No",19
+"220","Shropshire, Telford and Wrekin","Physical format","Yes",10
+"221","Somerset","Digital format","No",16
+"222","Somerset","Digital format","Yes",12
+"223","Somerset","No preference","Not given",38
+"224","Somerset","Physical format","No",13
+"225","Somerset","Physical format","Yes",20
+"226","Somerset","Physical format","Not given",2
+"227","South East London","Digital format","No",23
+"228","South East London","Digital format","Yes",29
+"229","South East London","No preference","Not given",55
+"230","South East London","Physical format","No",21
+"231","South East London","Physical format","Yes",16
+"232","South East London","Physical format","Not given",2
+"233","South West London","Digital format","No",24
+"234","South West London","Digital format","Yes",23
+"235","South West London","No preference","Not given",42
+"236","South West London","Physical format","No",22
+"237","South West London","Physical format","Yes",11
+"238","South West London","Physical format","Not given",1
+"239","South Yorkshire","Digital format","No",35
+"240","South Yorkshire","Digital format","Yes",19
+"241","South Yorkshire","Digital format","Not given",2
+"242","South Yorkshire","No preference","Not given",79
+"243","South Yorkshire","Physical format","No",34
+"244","South Yorkshire","Physical format","Yes",26
+"245","South Yorkshire","Physical format","Not given",2
+"246","Staffordshire and Stoke-on-Trent","Digital format","No",27
+"247","Staffordshire and Stoke-on-Trent","Digital format","Yes",18
+"248","Staffordshire and Stoke-on-Trent","Digital format","Not given",1
+"249","Staffordshire and Stoke-on-Trent","No preference","Not given",78
+"250","Staffordshire and Stoke-on-Trent","Physical format","No",31
+"251","Staffordshire and Stoke-on-Trent","Physical format","Yes",16
+"252","Suffolk and North East Essex","Digital format","No",27
+"253","Suffolk and North East Essex","Digital format","Yes",16
+"254","Suffolk and North East Essex","Digital format","Not given",2
+"255","Suffolk and North East Essex","No preference","Not given",73
+"256","Suffolk and North East Essex","Physical format","No",29
+"257","Suffolk and North East Essex","Physical format","Yes",21
+"258","Suffolk and North East Essex","Physical format","Not given",1
+"259","Surrey Heartlands","Digital format","No",15
+"260","Surrey Heartlands","Digital format","Yes",8
+"261","Surrey Heartlands","Digital format","Not given",4
+"262","Surrey Heartlands","No preference","Not given",37
+"263","Surrey Heartlands","Physical format","No",11
+"264","Surrey Heartlands","Physical format","Yes",14
+"265","Surrey Heartlands","Physical format","Not given",1
+"266","Sussex","Digital format","No",49
+"267","Sussex","Digital format","Yes",34
+"268","Sussex","Digital format","Not given",1
+"269","Sussex","No preference","Not given",122
+"270","Sussex","Physical format","No",43
+"271","Sussex","Physical format","Yes",46
+"272","Sussex","Physical format","Not given",3
+"273","West Yorkshire","Digital format","No",48
+"274","West Yorkshire","Digital format","Yes",27
+"275","West Yorkshire","Digital format","Not given",1
+"276","West Yorkshire","No preference","Not given",113
+"277","West Yorkshire","Physical format","No",52
+"278","West Yorkshire","Physical format","Yes",24
